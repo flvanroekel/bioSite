@@ -1,0 +1,103 @@
+header, section, footer, aside, article, figure, figcaption {
+    display: block;}
+body {
+background-color: rgb(174, 238, 223);
+font-family: Verdana, Arial, sans-serif;
+line-height: 1.4em;
+margin: 0px;}
+.wrapper {
+width: 940px;
+margin: 20px auto 20px auto;
+border: 2px solid #000000;
+}
+header {
+    height: 160px;
+    background-color: rgb(169, 160, 160);}
+}
+h1 {
+font-family: 'Oswald', Verdana, Arial, sans-serif;
+font-weight:500;
+margin-top: 0px;
+text-indent: -9999px;
+width: 960px;
+height: 130px;
+margin: 0px;
+align-content: center;
+}
+
+section.courses {
+    float: left;
+    width: 620px;}
+    
+article {
+clear: both;
+overflow: auto;
+width: 100%:}
+
+hgroup {
+    margin-top: 40px;}
+figure {
+    float: left;
+    width: 290px;
+    height: 220px;
+    padding: 30px 30px 30px 30px;
+    margin: 20px;}
+.item1 {
+  grid-column-end: 2;
+}
+figcaption {
+    font-size: 80%;
+    text-align: left;}
+    
+aside {
+    width: 230px;
+    float: left;
+    padding: 0px 0px 0px 20px;}
+aside section a {
+    display: block;
+    padding: 10px;
+    border-bottom: 1px solid #eeeeee;}
+.column1of2 {
+float: left;
+width: 620px;
+margin: 10px;}
+.column2of2 {
+float: left;
+width: 300px;
+margin: 10px;}
+h1, h2, h3 {
+    font-weight: normal;
+  }
+h2 {
+    margin: 10px 0px 5px 0px;
+    padding: 0px;
+h3 {
+    margin: 0px 0px 10px 0px;
+    color: #de6581;}
+aside h2 {
+    padding: 30px 0px 10px 0px;
+    color: #de6581;}
+            
+p {
+    font-size: 14px;
+    line-height: 1.4em;
+    width: 620px;
+    padding: 10px;
+}
+
+.intro {font-weight: bold;}
+
+ol{
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    font-weight:300;
+    list-style-position: inside;
+}
+
+footer {
+font-size: 80%;
+padding: 7px 0px 0px 20px;}
+ul{
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    font-weight:300;
+    ul style="list-style-type:none;"
+}
