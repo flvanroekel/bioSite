@@ -37,10 +37,8 @@
 </hgroup>
 <p> Allie loves listening to music and is very eclectic.  Allie mostly likes listening to Rock, Pop, Country and Christian Rock. The only music she really doesn't enjoy is Opera, Rap and Heavy Metal.  She enjoys the relaxing piano music by Peder B. Hellend when she falls asleep at night.  Allie will most often be found with headphones in her ears!  She will usually be wearing them while she vaccuums and house cleans.  She will even wear them in the grocery store while sheis shopping for groceries.  Allie says that music tends to soothe and relax her.  She is also very musically talented.  She learned to play the flute when she was in 5th grade and the piano when she was in 2nd grade.  Allie continued playing piano until her sophomore year of high school and she played the flute through her senior year. </p>
   </article>
- 
- <section class="courses">   
+<section class="courses">   
  <article>  
- <br>
 <br>
 <hgroup>
 <h2>Collections!</h2>
@@ -53,8 +51,6 @@
 <br>
  <section class="courses">   
  <article>
- <br>
-<br>
 <hgroup>
 <h2>Quilting</h2>
 </hgroup>
@@ -83,42 +79,48 @@
         <br>
         <br>
         <br>
+        <br>
+        <br>
+        <br>
      <section class="courses">
      <figure>
     <img src="Images/FoxColl2.jpg" alt="Allie's Fox Collection" height="200" width="300">
     <figcaption>Some items from Allie's Fox Collection</figcaption>
-    </figure>
-    <figure>
-    <img src="Images/Wolf.jpg" alt="Allie made this Wolf Quilt" height="350" width="300">
+   <br>
+   <br>
+    <img src="Images/Wolf.jpg" alt="Allie made this Wolf Quilt" height="320" width="300">
     <figcaption>Quilt that Allie made with Wolves</figcaption>
     </figure>
 </div> 
         
-        
-        
 <aside>
     <section class="Favorite Flowers">
 <br>
-<h2>Favorite Flowers</h2>
- <ul>
-  <li>Purple Iris</li>
-  <li>Bleeding Heart Bushes</li>
-  <li>Sunstar Flowers</li>
-  <li>Rose Bushes</li>
-  <li>Tiger Lilies</li>
-</ul>
-</section>
+    <h2>Favorite Flowers</h2>
+    <ul>
+        <li>Purple Iris</li>
+        <li>Bleeding Heart Bushes</li>
+        <li>Sunstar Flowers</li>
+        <li>Rose Bushes</li>
+        <li>Tiger Lilies</li>
+    </ul>
+    </section>
+</aside>
+    
 <aside>
     <section class="Reading List">
-<h2>Reading List</h2>
- <ol>
-   <li>The Lunatic Cafe</li>
-  <li>Circus of the Damned</li>
-  <li>Obsidian Butterfly</li>
-  <li>Incubus Dreams</li>
-  <li>Hit List</li>
-</ol>
-</section>
+    <h2>Reading List</h2>
+    <ol>
+        <li>The Lunatic Cafe</li>
+        <li>Circus of the Damned</li>
+        <li>Obsidian Butterfly</li>
+        <li>Incubus Dreams</li>
+        <li>Hit List</li>
+    </ol>
+    </section>
+</aside>
+  
+<aside>  
     <section class="contact-details">
     <h2>Contact Information</h2>
     <p>Allie De Smit<br />
@@ -127,9 +129,11 @@
           silvermustang06@gmail.com</p>
     </section>
 </aside>
-<footer>
-  <p>Allie M De Smit Webpage Created by Faye Van Roekel</p>
-</footer>
 </div>
+
+<footer>
+<p>Allie M De Smit Webpage Created by Faye Van Roekel</p>
+</footer>
+
 </body>
 </html>
