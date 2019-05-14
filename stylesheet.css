@@ -2,17 +2,18 @@ header, section, aside, article, figure, figcaption {
     display: block;
     }
     
+
 body {
-color: #000000;
-background-image: linear-gradient(#76adaa,#ffffff);
-font-family: Verdana, Arial, sans-serif;
-line-height: 1.4em;
-margin: 0px;
+    color: #000000;
+    background-image: linear-gradient(#76adaa,#ffffff);
+    font-family: Verdana, Arial, sans-serif;
+    line-height: 1.4em;
+    margin: 0px;
 }
 
 .wrapper {
-width: 1080px;
-margin: 20px auto 20px auto;
+    width: 1080px;
+    margin: 20px auto 20px auto;
 }
 
 header {
@@ -22,13 +23,12 @@ header {
 }
 
 h1 {
-font-family: 'Oswald', Verdana, Arial, sans-serif;
-font-weight:600;
-width: 960px;
-height: 130px;
-margin-left: 425px;
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    font-weight:600;
+    width: 960px;
+    height: 130px;
+    margin-left: 425px;
 }
-
 
 section.courses {
     float: left;
@@ -36,9 +36,9 @@ section.courses {
 }
     
 article {
-clear: both;
-overflow: auto;
-width: 100%:
+    clear: both;
+    overflow: auto;
+    width: 100%:
 }
 
 hgroup {
@@ -75,15 +75,15 @@ aside section a {
 }
     
 .column1of2 {
-float: left;
-width: 485px;
-margin: 10px;
+    float: left;
+    width: 485px;
+    margin: 10px;
 }
 
 .column2of2 {
-float: left;
-width: 300px;
-margin: 10px;
+    float: left;
+    width: 300px;
+    margin: 10px;
 }
 
 h2 {
@@ -116,11 +116,11 @@ ol {
 }
 
 footer {
-margin-left: auto;
-text-align: center;
-left: 0;
-bottom: 0;
-width: 100%;
+    margin-left: auto;
+    text-align: center;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
 
 ul {
